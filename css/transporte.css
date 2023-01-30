@@ -76,6 +76,9 @@
 	.principal-transp{
 		grid-column: 2/7;
 	}
+	.transp-titulo{
+		text-align: center;
+	}
 	.transp-texto{
 		grid-column: 2/6;
 	}

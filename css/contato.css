@@ -82,6 +82,9 @@
 		grid-column: 2/6;
 		grid-row: 2;
 	}
+	.principal-titulo{
+		text-align: center;
+	}
 	.principal-texto{
 		grid-column: 2/6;
 		grid-row: 3;

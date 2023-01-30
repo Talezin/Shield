@@ -78,6 +78,9 @@
 	.principal-automovel{
 		grid-column: 2/7;
 	}
+	.automovel-titulo{
+		text-align: center;
+	}
 	.automovel-texto{
 		grid-column: 2/6;
 	}

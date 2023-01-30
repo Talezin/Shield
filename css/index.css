@@ -156,6 +156,14 @@
 		grid-template-rows: 75px auto auto auto auto auto auto auto ;
 	}
 
+	.principal-texto{
+		text-align: center;
+	}
+
+	.principal-titulo{
+		font-size: 1.8em;
+	}
+
 
 	.principal-logo{
 		grid-column: 2/6;
@@ -164,6 +172,9 @@
 	.principal-texto{
 		grid-column: 2/6;
 		grid-row: 3;
+	}
+	.principal-titulo{
+		text-align: center;
 	}
 
 	.cartaos{
