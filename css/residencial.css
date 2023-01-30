@@ -81,6 +81,7 @@
 	}
 	.residencial-texto{
 		grid-column: 2/6;
+		text-align: center;		
 	}
 	.ctt{
 		visibility: hidden;

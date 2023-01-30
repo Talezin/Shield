@@ -257,7 +257,10 @@ footer .copyright:before{
     flex-direction: column;
     background-color: #15191c;
     width: 50vw;
-    height: 89vh;
+    height:1000px ;
+    max-height: 92vh;
+    
+
 
 	position: absolute;
     left: -100vw;
@@ -305,9 +308,8 @@ footer{
 	display: grid;
 	grid-template-columns: 1fr;
 	grid-template-rows: auto auto auto auto;
-	height: 100%;
 	margin: 0;
-	height: 100vh;
+	height: 120vh;
 }
 footer .rodape-links{
 	grid-row: 1;

@@ -113,6 +113,7 @@
 	}
 	.seguradoras-texto{
 		grid-column: 2/6;
+		text-align: center;
 	}
 	.companhias{
 		grid-column: 2/6;

@@ -78,9 +78,11 @@
 	}
 	.condo-titulo{
 		text-align: center;
+		text-align: center;
 	}
 	.condo-texto{
 		grid-column: 2/6;
+		text-align: center;
 	}
 	.ctt{
 		visibility: hidden;
