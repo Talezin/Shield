@@ -88,7 +88,7 @@
 	.principal-texto{
 		grid-column: 2/6;
 		grid-row: 3;
-		text-align:center;
+		text-align: center;
 	}
 	.contatos .ctt-titulo{
 		font-size: 16px;
