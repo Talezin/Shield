@@ -1,16 +1,76 @@
-.principal-predio{
-	grid-column: 4/7;
-	grid-row: 2/4;
+.principal-logo{
+	grid-column: 3/5;
 }
 
-.principal-predio img{
-	justify-self: center;
-	align-self: center;
-	margin: 2%;
-	box-shadow: 0px 0px 15px black;
-	width: 79%;
-	aspect-ratio: 3/2 ;
+.box-parallax{
+	grid-row: 4;
+	grid-column: 1/7;
+	height: 100%;
+	z-index: 100000;
+	margin: 5% 0;
 }
+
+.container {
+	background-image: url('https://img.freepik.com/fotos-gratis/predio-de-escritorios-moderno-opiniao-de-angulo-baixo-dos-arranha-ceus-na-cidade-de-singapura-predio-de-escritorios-moderno-opiniao-de-angulo-baixo-dos-arranha-ceus-na-cidade-de-singapura_231208-1463.jpg?w=996&t=st=1675343668~exp=1675344268~hmac=10cb7fc684cfc0b5d9ad3f48010b3582102d7a6680591aaa1bf74ba5cfee3dee');
+	background-size: cover;
+  height: 940px;
+  max-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-attachment: fixed;
+}
+
+.blank1, .blank3 {
+  width: 100%;
+  min-height: 5vh;
+  background-color: #15191c;
+}
+.blank2{
+	width: 100%;
+  min-height: 20vh;
+  background-color: #15191c;
+}
+
+.second {
+  background-image:url('https://img.freepik.com/fotos-gratis/bela-vista-das-luzes-de-transporte-na-estrada-durante-a-noite_181624-54742.jpg?size=626&ext=jpg&ga=GA1.1.1647900109.1669918901&semt=sph');
+  background-attachment: fixed;
+  filter: grayscale(100%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+.parallax-titulo{
+	font-size: 48px;
+	font-weight: bold;
+	color: white;
+	padding: 5%;
+	text-shadow: 5px 5px 5px black;
+}
+
+.parallax-texto{
+	width: 80%;
+	margin: 2% 0;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	text-shadow: 5px 5px 5px black;
+	text-align: center;
+	
+}
+
+
+
+
+
+
+
+
+
 
 .conheca-titulo{
 	grid-column: 2/6;
